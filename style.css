@@ -10,6 +10,7 @@ body {
   }
   
   h1, h2 {
+    font-size: 2.5rem;
     margin: 0;
   }
   .capa {
@@ -39,14 +40,14 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    font-size: 1rem;
   }
   footer {
     background-color: #F5F7F8; /* Cor de fundo do rodapé */
-    color: #45474B; /* Cor do texto */
+    color: #702121; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     padding: 0; /* Espaçamento interno */
     width: 100%; /* Largura total da página */
-    position: absolute; /* Posiciona o rodapé */
-    bottom: 0; /* Alinha ao fundo da página */
-    font-size: 1rem; /* Tamanho da fonte */
-}
+    position: absolute.0 /* Posiciona o rodapé */
+    font-size: 1.2rem; /* Tamanho da fonte */
+  }
