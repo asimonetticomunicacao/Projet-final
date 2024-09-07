@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #C89116; /* Azul marinho */
+    color: rgb(8, 2, 44);
+    text-align: center; /* Centraliza o conteúdo por padrão */
+  }
+  
+  header {
+    margin-top: 50px; /* Ajusta o espaço superior do cabeçalho */
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  .capa {
+    width: 100%; /* Faz a imagem ocupar 100% da largura da tela */
+    height: 300px; /* Define a altura da imagem */
+    object-fit: cover; /* Faz a imagem preencher todo o espaço, recortando se necessário */
+  }
+  #servicos ul {
+    list-style: none;
+    display: flex; /* Cria um container flexbox */
+    flex-wrap: wrap; /* Permite que os itens se quebrem em novas linhas */
+    justify-content: center; /* Centraliza os itens horizontalmente */
+  }
+  
+  #servicos li {
+    background-color: #150485; /* Verde escuro */
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #006400; /* Verde escuro */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  footer {
+    background-color: #F5F7F8; /* Cor de fundo do rodapé */
+    color: #45474B; /* Cor do texto */
+    text-align: center; /* Alinha o texto ao centro */
+    padding: 0; /* Espaçamento interno */
+    width: 100%; /* Largura total da página */
+    position: absolute; /* Posiciona o rodapé */
+    bottom: 0; /* Alinha ao fundo da página */
+    font-size: 1rem; /* Tamanho da fonte */
+}
