@@ -1,5 +1,5 @@
 **Propósito:**
-Este projeto tem como objetivo fornecer uma base sólida para a criação de páginaszonline personalizadas, direcionadas a profissionais de diversas áreas. A estrutura HTML fornecida neste repositório serve como um ponto de partida para a construção de um portfólio profissional atraente e funcional.
+Este projeto tem como objetivo fornecer uma base sólida para a criação de páginas online personalizadas, direcionadas a profissionais de diversas áreas. A estrutura HTML fornecida neste repositório serve como um ponto de partida para a construção de um portfólio profissional atraente e funcional.
 
 **Funcionalidades:**
 
